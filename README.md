@@ -1,76 +1,110 @@
-Installation:
+[h1]Intravenous Cheat Mod[/h1]
 
-1. Download "Cheat.Mod.7z" from my github https://github.com/BlueOnizuka/Intravenous---Cheat-mod/releases/tag/release
-2. Go to Steam Library, press Right Mouse Button on Intravenous. "Manage" -> "Browse local files".
-3. Copy "Cheat Mod" folder from the zip file opened in step 1, and paste it into the "mods" folder opened in step 2.
-4. Run the game, if you've done everything right then you should be able to open the mod menu by pressing "F1" once your save is load.
-5. Hurray! Now you can use cheats!
+[quote]Press [b]F1[/b] in-game to open the cheat menu.[/quote]
 
-Description:
+[hr][/hr]
 
-The mod has 39 cheats in the cheat menu, grouped into 8 categories. A toggle has a checkbox and stays on or off. An action is a button that fires once when you click it.
+[h2]Installation[/h2]
 
-Player
+[olist]
+[*] Download [b]"Cheat.Mod.7z"[/b] from my GitHub: [url=https://github.com/BlueOnizuka/Intravenous---Cheat-mod/releases/tag/release]Releases page[/url]
+[*] Go to your Steam Library, right-click [b]Intravenous[/b] -> [b]Manage[/b] -> [b]Browse local files[/b].
+[*] Copy the [b]"Cheat Mod"[/b] folder from the archive you downloaded in step 1, and paste it into the [b]"mods"[/b] folder opened in step 2.
+[*] Run the game. If everything was done correctly, you can open the mod menu by pressing [b]F1[/b] once your save is loaded.
+[*] Hurray! Now you can use cheats!
+[/olist]
 
-Refill health (action)
-Refill shield (action)
-Infinite health (toggle)
-Infinite shield (toggle)
-Disable noise (toggle)
-Invisibility (toggle)
-Instant lockpicking (toggle)
+[hr][/hr]
 
-Loadout
+[h2]Description[/h2]
 
-Change loadout (action)
-Re-add loadout (action)
-Add primary weapon slot (action)
-Add secondary weapon slot (action)
-Add gadget slot (action)
-Fix loadout key bindings (action)
-Reset loadout slots (action)
+The mod has [b]39 cheats[/b] in the cheat menu, grouped into [b]8 categories[/b].
 
-Weapon
+[table]
+[tr][th]Type[/th][th]What it does[/th][/tr]
+[tr][td][b]Toggle[/b][/td][td]Has a checkbox and stays on or off.[/td][/tr]
+[tr][td][b]Action[/b][/td][td]A button that fires once when you click it.[/td][/tr]
+[/table]
 
-Refill current weapon ammo (action)
-Refill current weapon magazine (action)
-Infinite magazine (toggle)
-Instant reload (toggle)
-No weapon spread (toggle)
-Explosive bullets (toggle)
+[h2]Cheat list[/h2]
 
-Level
+[h3]Player[/h3]
+[list]
+[*] Refill health [i](action)[/i]
+[*] Refill shield [i](action)[/i]
+[*] Infinite health [b](toggle)[/b]
+[*] Infinite shield [b](toggle)[/b]
+[*] Disable noise [b](toggle)[/b]
+[*] Invisibility [b](toggle)[/b]
+[*] Instant lockpicking [b](toggle)[/b]
+[/list]
 
-Finish level (action)
-Unlock doors (action)
-Lock doors (action)
-Unlock breaker boxes (action)
-Lock breaker boxes (action)
-Enable breaker boxes (action)
-Disable breaker boxes (action)
-Enable light switches (action)
-Disable light switches (action)
+[h3]Loadout[/h3]
+[list]
+[*] Change loadout [i](action)[/i]
+[*] Re-add loadout [i](action)[/i]
+[*] Add primary weapon slot [i](action)[/i]
+[*] Add secondary weapon slot [i](action)[/i]
+[*] Add gadget slot [i](action)[/i]
+[*] Fix loadout key bindings [i](action)[/i]
+[*] Reset loadout slots [i](action)[/i]
+[/list]
 
-AI
+[h3]Weapon[/h3]
+[list]
+[*] Refill current weapon ammo [i](action)[/i]
+[*] Refill current weapon magazine [i](action)[/i]
+[*] Infinite magazine [b](toggle)[/b]
+[*] Instant reload [b](toggle)[/b]
+[*] No weapon spread [b](toggle)[/b]
+[*] Explosive bullets [b](toggle)[/b]
+[/list]
 
-Enable NPCs (action)
-Disable NPCs (action)
-Kill all NPCs (action)
-Knock out all NPCs (action)
+[h3]Level[/h3]
+[list]
+[*] Finish level [i](action)[/i]
+[*] Unlock doors [i](action)[/i]
+[*] Lock doors [i](action)[/i]
+[*] Unlock breaker boxes [i](action)[/i]
+[*] Lock breaker boxes [i](action)[/i]
+[*] Enable breaker boxes [i](action)[/i]
+[*] Disable breaker boxes [i](action)[/i]
+[*] Enable light switches [i](action)[/i]
+[*] Disable light switches [i](action)[/i]
+[/list]
 
-Playthrough
+[h3]AI[/h3]
+[list]
+[*] Enable NPCs [i](action)[/i]
+[*] Disable NPCs [i](action)[/i]
+[*] Kill all NPCs [i](action)[/i]
+[*] Knock out all NPCs [i](action)[/i]
+[/list]
 
-Unlock all levels (action)
-Unlock all weapons (action)
-Unlock New Game+ (action)
+[h3]Playthrough[/h3]
+[list]
+[*] Unlock all levels [i](action)[/i]
+[*] Unlock all weapons [i](action)[/i]
+[*] Unlock New Game+ [i](action)[/i]
+[/list]
 
-Render
+[h3]Render[/h3]
+[list]
+[*] Radiosity (lighting) [b](toggle)[/b]
+[/list]
 
-Radiosity (lighting) (toggle)
+[h3]Other[/h3]
+[list]
+[*] Hide HUD [b](toggle)[/b]
+[*] No clip [b](toggle)[/b]
+[/list]
 
-Other
+[hr][/hr]
 
-Hide HUD (toggle)
-No clip (toggle)
+[h2]Weapon Editor[/h2]
 
-Weapon Editor tab: this is a separate tab from the cheats. It lists every registered weapon so you can edit its stats. The mod warns that changing values can crash the game.
+A separate tab from the cheats. It lists every registered weapon so you can edit its stats.
+
+[b]Warning:[/b] [i]Changing values can crash the game![/i]
+
+[spoiler]Tip: cheats are automatically disabled when the mission changes or restarts.[/spoiler]
