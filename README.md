@@ -8,7 +8,7 @@
 
 1. Download **`Cheat.Mod.7z`** from the [Releases page](https://github.com/BlueOnizuka/Intravenous---Cheat-mod/releases/tag/release).
 2. Go to your Steam Library, right-click **Intravenous** → **Manage** → **Browse local files**.
-3. Copy the **`Cheat Mod`** folder from the archive you downloaded in step 1, and paste it into the **`mods`** folder opened in step 2.
+3. Copy the **`Cheat Mod`** folder from the archive you downloaded in step 1, and paste it into the **`mods`** folder present in the game files opened in step 2.
 4. Run the game. If everything was done correctly, you can open the mod menu by pressing **F1** once your save is loaded.
 5. Hurray! Now you can use cheats!
 
